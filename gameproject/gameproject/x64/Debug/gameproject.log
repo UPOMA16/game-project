@@ -1,0 +1,10 @@
+﻿  gameproject.cpp
+E:\Game\gameproject\gameproject\gameproject.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Game\gameproject\gameproject\gameproject.cpp(102,19): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Game\gameproject\gameproject\gameproject.cpp(103,18): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Game\gameproject\gameproject\gameproject.cpp(113,34): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+E:\Game\gameproject\gameproject\gameproject.cpp(135,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Game\gameproject\gameproject\gameproject.cpp(135,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Game\gameproject\gameproject\gameproject.cpp(143,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Game\gameproject\gameproject\gameproject.cpp(143,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  gameproject.vcxproj -> E:\Game\gameproject\x64\Debug\gameproject.exe
