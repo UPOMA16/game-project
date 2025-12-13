@@ -1,22 +1,22 @@
-# Doodle Jump (Using C++ and SFML)
+# Cat Jump (Using C++ and SFML)
 
 ## Description
-A simple Doodle Jump game. **"Jump on platforms, climb higher and avoid falling!"**
+A simple doodle Cat Jump game. **"Jump on platforms, climb higher and avoid falling!"**
 
 
-The player moves left and right to land on platforms while the character jumps automatically.  
-The screen scrolls upward as the player climbs higher.
+The cat moves left and right to land on platforms while the cat jumps automatically.  
+The screen scrolls upward as the cat climbs higher.
 
-Landing on platforms keeps the player in the game and increases the score.  
+Landing on platforms keeps the cat in the game and increases the score.  
 Falling off the screen ends the game and pressing **R** restarts it.
 
 
 ## Video
-[Game Video](https://raw.githubusercontent.com/ariba450/project/8de5cdb63990150f2ba61e029439ff28199a4d71/game.gif)
+[Game Video]
 
 ## Screenshot
-![](https://github.com/UPOMA16/game-project/blob/4d5656de07e6b66b26765fe3f83f7e008997323e/Game%20Start.png)
-![](https://github.com/UPOMA16/game-project/blob/4d5656de07e6b66b26765fe3f83f7e008997323e/Game%20Over.png)
+![](https://github.com/UPOMA16/game-project/blob/cf40a1c2efa486229a8ab88438d02496b65d0d3e/Game%20start%20-.png)
+![](https://github.com/UPOMA16/game-project/blob/cf40a1c2efa486229a8ab88438d02496b65d0d3e/Game%20over%20-.png))
 
 ## Controls
 - Left Arrow → Move left
