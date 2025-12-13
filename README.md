@@ -1,10 +1,14 @@
-# Doodle Game (Using C++ and SFML)
+# Doodle Jump (Using C++ and SFML)
 
 ## Description
 A simple Doodle Jump game. Jump on platforms, climb higher and avoid falling!
 
 ## Video
 [Game Video](https://raw.githubusercontent.com/ariba450/project/8de5cdb63990150f2ba61e029439ff28199a4d71/game.gif)
+
+## Screenshot
+![](https://github.com/UPOMA16/game-project/blob/4d5656de07e6b66b26765fe3f83f7e008997323e/Game%20Start.png)
+![](https://github.com/UPOMA16/game-project/blob/4d5656de07e6b66b26765fe3f83f7e008997323e/Game%20Over.png)
 
 ## Controls
 - Left Arrow → Move left
