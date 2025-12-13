@@ -1,7 +1,15 @@
 # Doodle Jump (Using C++ and SFML)
 
 ## Description
-A simple Doodle Jump game. Jump on platforms, climb higher and avoid falling!
+A simple Doodle Jump game. **"Jump on platforms, climb higher and avoid falling!"**
+
+
+The player moves left and right to land on platforms while the character jumps automatically.  
+The screen scrolls upward as the player climbs higher.
+
+Landing on platforms keeps the player in the game and increases the score.  
+Falling off the screen ends the game and pressing **R** restarts it.
+
 
 ## Video
 [Game Video](https://raw.githubusercontent.com/ariba450/project/8de5cdb63990150f2ba61e029439ff28199a4d71/game.gif)
