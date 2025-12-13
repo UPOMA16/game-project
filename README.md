@@ -12,7 +12,7 @@ Falling off the screen ends the game and pressing **R** restarts it.
 
 
 ## Video
-[Game Video]
+[Game Video](https://github.com/UPOMA16/game-project/blob/93f86ba286cf562d3f5970552f3ee21766d6c5ee/Game%20Play%20Video.gif)
 
 ## Screenshot
 ![](https://github.com/UPOMA16/game-project/blob/cf40a1c2efa486229a8ab88438d02496b65d0d3e/Game%20start%20-.png)
