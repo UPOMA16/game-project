@@ -1,4 +1,4 @@
-# Cat Jump (Using C++ and SFML)
+# Kitty JumpS (Using C++ and SFML)
 
 ## Description
 A simple doodle Cat Jump game. **"Jump on platforms, climb higher and avoid falling!"**
