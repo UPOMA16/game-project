@@ -1,9 +1,68 @@
-# game-project
-[Game Video](https://raw.githubusercontent.com/ariba450/project/8de5cdb63990150f2ba61e029439ff28199a4d71/game.gif)
-Doodle Game (C++ and SFML)
-A simple Doodle Jump game where the player jumps on platforms, climbs higher and avoids falling. The game requires Microsoft Visual Studio, SFML 2.5 or higher, Windows, and a C++ compiler. To run the game, include the SFML libraries (sfml-graphics-d.lib, sfml-window-d.lib, sfml-system-d.lib) and copy all .dll files from the SFML/bin/ folder into the Debug folder. The Images/ folder and font file must be placed inside the game folder. Gaming controls are: the left and right arrows move the character and pressing R restarts after a game over. The character jumps automatically.
-For setting SFML in Visual Studio, download SFML 2.5.1 and extract it. Create a folder for the game, place all C++ files there and add the extracted SFML folder inside the project. In the Visual Stdio, install the C/C++ extension, set the include path to SFML/include, the library path to SFML/lib and link the libraries sfml-graphics, sfml-window and sfml-system. Finally, copy all .dll files from SFML/bin/ into the same folder as the executable, so the game runs correctly.
+# Doodle Game (Using C++ and SFML)
 
-Owner:
-FATIHA TASNIM UPOMA(2023831012)
-ARIBA SHARAF CHOWDHURY(2023831051)
+## Description
+A simple Doodle Jump game. Jump on platforms, climb higher and avoid falling!
+
+## Video
+[Game Video](https://raw.githubusercontent.com/ariba450/project/8de5cdb63990150f2ba61e029439ff28199a4d71/game.gif)
+
+## Controls
+- Left Arrow → Move left
+- Right Arrow → Move right
+- R → Restart after game over
+
+## Requirements
+- Microsoft Visual Studio
+- SFML 2.5+
+- Windows
+- C++
+
+## Setup
+1. Install SFML and add include & lib paths in Visual Studio.
+2. Link SFML libraries: sfml-graphics-d.lib, sfml-window-d.lib, sfml-system-d.lib
+3. Copy .dll files from SFML/bin/ to your Debug/Release folder.
+4. Images/ folder and font file must be inside the game folder.
+
+## Project Structure
+DoodleGame
+-  main.cpp
+- Images
+   - Background.png
+    - platform.png
+    - doodle.png
+- AovelSansRounded-rdDL.ttf
+- README.md
+
+## Setting Up SFML in Microsoft Visual Studio
+1. Download SFML
+-  Get SFML-2.5.1 and extract it.
+2. Create a Folder for the Game
+ - Put the C++ files there and add the extracted SFML-2.5.1 folder inside the project.
+3. Set Up VS Code
+
+- Install the C/C++ Extension
+
+- Link SFML by adding:
+     Include path → SFML/include
+
+
+    Library path → SFML/lib
+
+  
+    Link the libraries:
+
+
+        sfml-graphics
+
+
+        sfml-window
+
+
+        sfml-system
+4. Copy DLL Files
+ - From SFML/bin, copy all .dll files next to your .exe so the game runs.
+
+
+## Owner
+- FATIHA TASNIM UPOMA(2023831012)
+- ARIBA SHARAF CHOWDHURY(2023831051)
